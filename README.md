@@ -1,4 +1,4 @@
-# Armbian-Usage-Management
+# Armbian 使用管理
 ## 更新系统时间
 ```bash
 timedatectl set-timezone "Asia/ShangHai" #设定+0800时区
